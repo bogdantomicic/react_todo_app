@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.efef83e6.css","mappings":"AAAA,kBACI,qBACJ,CCFA,UACI,4BACJ,CAEA,YACI,oBACJ","sources":["css/Todo.module.css","App.css"],"sourcesContent":[".pink {\n    background-color: pink;\n}",".complete {\n    text-decoration: line-through;\n}\n\n.incomplete {\n    text-decoration: none;\n}"],"names":[],"sourceRoot":""}
